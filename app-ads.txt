@@ -1,6 +1,6 @@
 chartboost.com, 5a82bf9957a2dd0c33ebf817, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
-indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
+#indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
 lkqd.net, 459, RESELLER, 59c49fa9598a0117
 openx.com, 540338069, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 1605779867, RESELLER, a670c89d4a324e47
