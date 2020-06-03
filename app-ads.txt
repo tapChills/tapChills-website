@@ -6,6 +6,12 @@ openx.com, 540338069, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 1605779867, RESELLER, a670c89d4a324e47
 rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
 
+ninthdecimal.com, 1c383cd30b7c298ab50293adfecb7b18, DIRECT, 3aff2148687b274b
+indexexchange.com, 192143, RESELLER
+pubnative.net, 1007312, RESELLER, d641df8625486a7b
+advangelists.com, 3dc4876f3f08201c7c76cb71fa1da439, DIRECT, 60d26397ec060f98advangelists.com, 3dc4876f3f08201c7c76cb71fa1da439, DIRECT, 60d26397ec060f98
+Contextweb.com, 558752, RESELLER, 89ff185a4c4e857c
+
 
 
 #Appodeal
